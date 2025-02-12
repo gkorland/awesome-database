@@ -64,6 +64,8 @@
 
 - [Neo4j](https://github.com/neo4j/neo4j) - An open-source, NoSQL, native graph database that provides an ACID-compliant transactional backend for your applications. Known for its high performance, scalability, and flexibility.
 
+- [FalkorDB](https://github.com/falkordb/falkordb) - A high-performance, low-latency, and scalable graph database optimized for real-time analytics and AI-driven applications, built on top of Redis.
+
 ## Vector
 
 - [Pinecone](https://www.pinecone.io/) - The vector database for machine learning applications. Build vector-based personalization, ranking, and search systems that are accurate, fast, and scalable.
